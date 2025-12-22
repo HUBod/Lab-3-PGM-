@@ -131,7 +131,6 @@ procedure ExitProgram;
 begin
   clrscr;
   writeln('Завершение программы...');
-  halt;
 end;
 
 { Отображение меню }
@@ -238,3 +237,4 @@ begin
     end;
   end;
 end.
+
